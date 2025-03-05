@@ -1,0 +1,79 @@
+
+
+
+.btn{
+  cursor: pointer;
+  border: 0%;
+     
+}
+    
+.parrofos{
+        position: relative;
+        margin-left: 0%;
+        text-align: justify;
+        position: relative;
+        text-indent: 2em;
+        overflow:hidden;
+        font-size: 2vw;
+        line-height: 1.5;
+                
+    }  
+    
+h1 {
+    
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+
+
+h3{
+    color: blue;
+}
+
+hr{
+  height: 2px;
+  background-color: darkblue;
+  border: none;  
+    
+}
+
+
+
+.lista{
+    position: relative;
+    margin: 0px;
+     padding: 0px;
+    text-indent: -8px;
+    margin-left: 15px;
+    
+}
+
+.conRedes{
+    position: relative;
+    justify-content: center;
+   
+}
+
+.redes{
+    
+    position: static;
+    margin-left: 40px;
+    
+}
+
+
+.listaNumero{
+ padding: 5;  
+margin: 0;
+
+  
+}
+
+
+
+
+
