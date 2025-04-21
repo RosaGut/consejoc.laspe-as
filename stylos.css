@@ -74,9 +74,16 @@ margin: 0;
 }
 
 .distribucion{
-    margin-right: 15px;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
     
 }
 
-
+.tabla-distribucion{
+    width: 330px;
+    justify-items: center;
+    margin-right: 25px;
+    
+}
 
